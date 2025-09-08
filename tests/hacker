@@ -17,12 +17,12 @@
 
 [ And now for the questions... ]
 
-( 0x000 Have you ever owned a computer?)
-( 0x001 Have you ever used a computer?)
-( 0x002 ... for more than 4 hours continuously?)
-( 0x003 ... more than 8 hours?)
-( 0x004 ... more than 16 hours?)
-( 0x005 ... more than 32 hours?)
+( 0x000 Avez-vous déjà possédé un ordinateur?)
+( 0x001 Avez-vous déjà utilisé un ordinateur?)
+( 0x002 ... plus de 4 heures d'affilé?)
+( 0x003 ... plus de 8 heures d'affilé?)
+( 0x004 ... plus de 16 heures d'affilé?)
+( 0x005 ... plus de 32 heures d'affilé?)
 ( 0x006 Have you ever patched paper tape?)
 ( 0x007 Have you ever missed a class while programming?)
 ( 0x008 ... Missed an examination?)
