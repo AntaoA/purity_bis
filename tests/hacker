@@ -17,7 +17,11 @@
 
 [ And now for the questions... ]
 
+<<<<<<< .merge_file_COcDEY
 ( 0x000 Avez-vous déjà possédé un ordinateur???)
+=======
+( 0x000 Avez-vous déjà possédé un ordinateur????????)
+>>>>>>> .merge_file_WFfFr1
 ( 0x001 Avez-vous déjà utilisé un ordinateur?)
 ( 0x002 ... plus de 4 heures d'affilé?)
 ( 0x003 ... plus de 8 heures d'affilé?)
